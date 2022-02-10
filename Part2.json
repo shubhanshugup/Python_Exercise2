@@ -1,0 +1,39 @@
+{
+  "Test_Case_Run_Status":[
+    {
+      "Script_Name":"A2DP/SRC/AS/BV-01-I",
+      "Status":"False",
+      "Time":"09/14/2020 18:06:34"
+    },
+    {
+      "Script_Name":"A2DP/SNK/CC/BV-08-I",
+      "Status":"Pass",
+      "Time":"09/14/2020 18:06:20"
+    },
+    {
+      "Script_Name":"HFP/HF/CIT/BV-01-I",
+      "Status":"PASS",
+      "Time":"09/15/2020 08:02:46"
+    },
+    {
+      "Script_Name":"HFP/HF/ICA/BV-02-I",
+      "Status":"FAIL",
+      "Time":"09/15/2020 08:01:25"
+    },
+    {
+      "Script_Name":"DID/SR/SDI/BV-04-I",
+      "Status":"PASS",
+      "Time":"09/14/2020 20:00:20"
+    },
+    {
+      "Script_Name":"DIS/SR/SD/BV-01-C",
+      "Status":"FAIL",
+      "Time":"09/15/2020 08:05:15"
+    },
+    {
+      "Script_Name":"DIS/SR/SDP/BV-01-C",
+      "Status":"PASS",
+      "Time":"09/15/2020 08:03:13"
+    }
+  ]
+}
